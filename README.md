@@ -1,7 +1,3 @@
-<p>
-  <a href="https://7code.ro/" target="blank"><img src="https://avatars.githubusercontent.com/u/41831998" height="100" alt="7Code Logo" /></a>
-</p>
-
 ## Description
 
 [Nest](https://github.com/nestjs/nest) + [Prisma](https://github.com/prisma/prisma) + [TypeScript](https://github.com/microsoft/TypeScript) starter repository.
@@ -92,12 +88,6 @@ Frontend adjustments
 Sync your IDE with project eslintrc.js. 
 
 Check `Run ESLint --fix on save`
-
-## Stay in touch
-
-- Author - [Igor Mardari](https://www.linkedin.com/in/igor-mardari-7code/) | [GarryOne](https://github.com/GarryOne)
-- Website - [7code.ro](https://7code.ro/)
-- Github - [@7codeRO](https://github.com/7codeRO/)
 
 ## License
 
